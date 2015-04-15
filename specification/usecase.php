@@ -7,14 +7,15 @@
 		<h1>
 			Use Cases for Dice.com Job Description
 		</h1>
-		<h2> Desktop Users</h2>
-		<p>
+		<h2> Job Seekers</h2>
+		<h3> When and Where:</h3>
+		<h3> Goal:</h3>
+		<h3> Steps:</h3>
 
-		</p>
-		<h2>Mobile Users</h2>
-		<p>
-
-		</p>
+		<h2>Employers</h2>
+		<h3> When and Where:</h3>
+		<h3> Goal:</h3>
+		<h3> Steps:</h3>
 
 	</body>
 
